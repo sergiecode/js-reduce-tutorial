@@ -22,7 +22,7 @@ La función de reducción se utiliza para reducir la matriz a un solo valor. Tom
 
 La función de reducción se puede definir como una función separada o como una función anónima. En el ejemplo anterior, la función de reducción es una función de flecha.
 
-`enter code here`const reducer = (accumulator, currentValue) => accumulator + currentValue;
+    const reducer = (accumulator, currentValue) => accumulator + currentValue;
 
 En este ejemplo, la función de reducción suma el valor actual al valor acumulado. La función de reducción puede realizar cualquier operación que se desee.
 

@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/js-reduce-tutorial/master/reduce.png)
+![Tutorial del uso del método reduce en javascript](https://raw.githubusercontent.com/sergiecode/js-reduce-tutorial/master/reduce.png)
 
 # Tutorial de REDUCE en JavaScript
 
